@@ -30,6 +30,12 @@
   --brand-line: rgba(20, 102, 242, 0.42);
   --glow: 0 0 0 1px rgba(20, 102, 242, 0.35), 0 18px 60px -22px rgba(20, 102, 242, 0.55);
 
+  /* Qizil — faqat hero tugmalari uchun */
+  --red: #E23A3A;
+  --red-hi: #FF5252;
+  --red-soft: rgba(226, 58, 58, 0.14);
+  --red-line: rgba(226, 58, 58, 0.42);
+
   /* Type */
   --font-display: var(--f-display), "Space Grotesk", system-ui, sans-serif;
   --font-sans: var(--f-sans), Inter, system-ui, sans-serif;
