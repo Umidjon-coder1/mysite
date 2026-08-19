@@ -9,7 +9,7 @@ export const site = {
   telegramHandle: "@umid_majiddev",
   instagram: "https://www.instagram.com/umidjon_majiddev/",
   instagramHandle: "@umidjon_majiddev",
-  url: "https://umidjonsaytolog.vercel.app",
+  url: "https://umidjon-saytolog.vercel.app",
 } as const;
 
 export const nav = [
