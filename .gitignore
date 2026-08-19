@@ -1,0 +1,35 @@
+# bog'liqliklar
+node_modules
+.pnp
+.pnp.js
+
+# build natijalari
+.next
+out
+build
+*.tsbuildinfo
+next-env.d.ts
+
+# maxfiy qiymatlar — hech qachon repoga tushmasin
+.env
+.env.*
+!.env.example
+
+# deploy
+.vercel
+
+# loglar
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# operatsion tizim va muharrir
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+*.swp
+
+# Claude Code lokal sozlamalari (launch.json qoladi)
+.claude/settings.local.json
