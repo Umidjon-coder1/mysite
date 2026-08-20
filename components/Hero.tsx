@@ -66,7 +66,7 @@ export default function Hero() {
 
             <h1 className="reveal" style={{ "--d": "80ms" } as React.CSSProperties}>
               Biznesingiz uchun <span className="accent">sotuvchi sayt</span>{" "}
-              <span className="muted">yarataman. 🚀</span>
+              <span className="muted">yarataman.</span>
             </h1>
 
             <p className="hero__sub reveal" style={{ "--d": "160ms" } as React.CSSProperties}>
